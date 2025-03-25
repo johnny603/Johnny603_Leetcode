@@ -1,3 +1,6 @@
+// Use binary search
+// Example case: 4 = 2 * 2
+
 class Solution {
 public:
     int mySqrt(int x) {
