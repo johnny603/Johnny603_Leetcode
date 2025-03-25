@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0067-add-binary) |
 | [2308-divide-array-into-equal-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3430-count-days-without-meetings) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
