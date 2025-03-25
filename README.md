@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3430-count-days-without-meetings](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
 |  |
 | ------- |
