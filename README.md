@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0283-move-zeroes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
