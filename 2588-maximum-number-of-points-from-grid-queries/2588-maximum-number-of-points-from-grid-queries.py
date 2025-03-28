@@ -32,3 +32,37 @@ class Solution:
             res[index] = points
 
         return res
+
+
+"""
+### Step-by-Step Execution Example:
+Initial Grid:
+  1   2   4
+  3   4   3
+  2   1   2
+
+Queries = [2, 3, 4]
+
+1. Sort Queries: [(2,0), (3,1), (4,2)]
+
+2. Start BFS from (0,0) with value 1.
+   - Query 2: Collect (0,0) since 1 < 2 → points = 1
+   - Push (0,1) → grid[0][1] = 2
+   - Push (1,0) → grid[1][0] = 3
+
+3. Query 3:
+   - Collect (0,1) since 2 < 3 → points = 2
+   - Push (0,2) → grid[0][2] = 4
+   - Push (1,1) → grid[1][1] = 4
+
+4. Query 4:
+   - Collect (1,0) since 3 < 4 → points = 3
+   - Push (2,0) → grid[2][0] = 2
+   - Collect (2,0) since 2 < 4 → points = 4
+   - Push (2,1) → grid[2][1] = 1
+   - Collect (2,1) since 1 < 4 → points = 5
+   - Push (2,2) → grid[2][2] = 2
+   - Collect (2,2) since 2 < 4 → points = 6
+
+Final result: [1, 2, 6]
+"""
