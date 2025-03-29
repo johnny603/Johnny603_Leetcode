@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0070-climbing-stairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Recursion
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0070-climbing-stairs) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
