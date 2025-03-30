@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> partitionLabels(String s) {
         // Store the last occurrence index of each character
-        int[] lastIndex = new int[26];
+        int[] lastIndex = new int[26]; // 26 letters in the english alphabet
         for (int i = 0; i < s.length(); i++) {
             lastIndex[s.charAt(i) - 'a'] = i;
         }
@@ -29,9 +29,10 @@ class Solution {
 
 
 // take in string
-// define a substring by these rules
+// define a substring by these rules:
 // notice how the letters are in order
 // once a letter has been assigned, it cannot be used again
+
 // Example 1:
 // ababccdd
 // abab. cc, dd
@@ -40,3 +41,6 @@ class Solution {
 // abcd, fefe
 
 // Idea: we need to loop through the string once, if a character equals the next, append to new partition, count the length of each string
+
+// Time: O(n)
+// Space: O(n)
