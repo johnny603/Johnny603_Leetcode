@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0768-partition-labels) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3396-valid-word](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3396-valid-word) |
 ## Trie
 |  |
 | ------- |
