@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sliding Window
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Graph
 |  |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
