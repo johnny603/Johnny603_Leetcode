@@ -3,9 +3,9 @@ class Solution {
         if (n == 1) {
             return "1"; // base case
         }
-        String prev = countAndSay(n - 1);
-        StringBuilder result = new StringBuilder();
-        int count = 1;
+        String prev = countAndSay(n - 1); // recurse
+        StringBuilder result = new StringBuilder(); // append countAndSay to a new string
+        int count = 1; 
 
         for (int i = 1; i < prev.length(); i++) {
             if (prev.charAt(i) == prev.charAt(i - 1)) {
