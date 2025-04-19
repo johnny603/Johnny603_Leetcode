@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
