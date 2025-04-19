@@ -4,8 +4,7 @@ import java.util.Arrays;
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
         ArrayList<Integer> result = new ArrayList<>();
-        Arrays.sort(nums);  // optional: sorts the input array
-
+        
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] % 2 == 0) {
                 result.add(nums[i]);
@@ -31,6 +30,6 @@ class Solution {
 
 // sort nums array
 // for int i in array
-// if odd add after even
+// if odd then append
 // if even add to new arraylist first
 // convert arraylist to array
