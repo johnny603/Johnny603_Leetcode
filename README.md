@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Graph
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0148-sort-list) |
 | [2280-count-good-triplets-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
