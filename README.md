@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0941-sort-array-by-parity](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1656-count-good-triplets](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1656-count-good-triplets) |
 | [1760-check-array-formation-through-concatenation](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0768-partition-labels) |
+| [0941-sort-array-by-parity](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Queue
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0941-sort-array-by-parity](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2681-put-marbles-in-bags) |
