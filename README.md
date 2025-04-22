@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0941-sort-array-by-parity](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0941-sort-array-by-parity) |
