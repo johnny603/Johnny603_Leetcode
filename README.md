@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [2280-count-good-triplets-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -386,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
