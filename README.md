@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
