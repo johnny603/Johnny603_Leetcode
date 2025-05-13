@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3396-valid-word](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3396-valid-word) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Trie
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
