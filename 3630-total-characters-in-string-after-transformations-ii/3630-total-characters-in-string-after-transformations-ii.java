@@ -12,7 +12,7 @@ class Solution {
             int steps = nums.get(i);
             for (int j = 1; j <= steps; j++) {
                 int next = (i + j) % 26;
-                base[i][next] = (base[i][next] + 1) % mod;
+                base[i][next] = (base[i][next] + 1) % mod; // Replace s[i] with the next nums[s[i] - 'a'] consecutive characters in the alphabet
             }
         }
 
