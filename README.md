@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-check-array-formation-through-concatenation](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2102-find-the-middle-index-in-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2249-count-the-hidden-sequences](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2915-count-of-interesting-subarrays) |
