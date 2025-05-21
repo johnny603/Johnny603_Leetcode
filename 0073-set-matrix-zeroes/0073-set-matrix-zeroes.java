@@ -1,7 +1,7 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
         int m = matrix.length;
-        int n = matrix[0].length;
+        int n = matrix[0].length; // declare m and n to save time
         boolean firstRowZero = false;
         boolean firstColZero = false;
 
