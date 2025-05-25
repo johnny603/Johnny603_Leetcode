@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0806-domino-and-tromino-tiling) |
