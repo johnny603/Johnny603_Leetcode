@@ -1,23 +1,21 @@
-import java.util.*;
-
 class Solution {
     public List<Integer> lexicalOrder(int n) {
-        List<String> strList = new ArrayList<>();
-        
-        // Add all numbers as strings to the list
-        for (int i = 1; i <= n; i++) {
-            strList.add(String.valueOf(i));
-        }
-
-        // Sort the list lexicographically
-        Collections.sort(strList);
-
-        // Convert back to integers
         List<Integer> result = new ArrayList<>();
-        for (String s : strList) {
-            result.add(Integer.parseInt(s));
+        for (int i = 1; i <= 9; i++) {
+            dfs(i, n, result);
         }
-
         return result;
+    }
+
+    private void dfs(int current, int n, List<Integer> result) {
+        if (current > n) return;
+
+        result.add(current);
+
+        for (int i = 0; i <= 9; i++) {
+            int next = current * 10 + i;
+            if (next > n) break;
+            dfs(next, n, result);
+        }
     }
 }
