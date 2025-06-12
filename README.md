@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
