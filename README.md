@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2386-min-max-game](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2386-min-max-game) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
