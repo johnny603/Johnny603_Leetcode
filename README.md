@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3548-find-the-count-of-good-integers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3396-valid-word) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
 |  |
