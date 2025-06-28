@@ -10,7 +10,7 @@ class Solution {
         
         int n = nums.length;
 
-        int[][] paired = new int[n][2];
+        int[][] paired = new int[n][2]; // [value, index]
         for (int i = 0; i < n; i++) {
             paired[i][0] = nums[i];
             paired[i][1] = i;
