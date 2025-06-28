@@ -2,6 +2,7 @@ class Solution {
     public int[] maxSubsequence(int[] nums, int k) {
         // Pair each element with its original index
         // Sort the array based on values in descending order
+        // to get the biggest sum, we typically want to add the biggest values
         // Pick the top k values, keeping track of their original indices
         // Sort the selected k indices to maintain the original order
         // Build and return the subsequence
