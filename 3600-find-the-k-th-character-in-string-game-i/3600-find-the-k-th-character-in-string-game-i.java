@@ -9,7 +9,13 @@ class Solution {
             // Build next part by shifting each character
             for (int i = 0; i < word.length(); i++) {
                 char c = word.charAt(i);
-                char nextChar = (c == 'z') ? 'a' : (char)(c + 1);
+                char nextChar;
+                if (c == 'z') {
+                    nextChar = 'a';
+                } else {
+                    nextChar = (char) (c + 1);
+                }
+
                 nextPart.append(nextChar);
             }
 
