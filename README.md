@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1656-count-good-triplets) |
 | [1760-check-array-formation-through-concatenation](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1500-count-largest-group](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1760-check-array-formation-through-concatenation](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
