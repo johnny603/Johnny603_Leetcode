@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1656-count-good-triplets) |
 | [1760-check-array-formation-through-concatenation](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1013-fibonacci-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
