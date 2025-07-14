@@ -9,7 +9,7 @@
  * }
 
  */
-
+/*
 class Solution {
     public int getDecimalValue(ListNode head) {
         StringBuilder binary = new StringBuilder();
@@ -20,3 +20,16 @@ class Solution {
         return Integer.parseInt(binary.toString(), 2);
     }
 }
+*/
+
+class Solution {
+    public int getDecimalValue(ListNode head) {
+        int result = 0;
+        while (head != null) {
+            result = result * 2 + head.val; // Shift left and add current bit
+            head = head.next;
+        }
+        return result;
+    }
+}
+
