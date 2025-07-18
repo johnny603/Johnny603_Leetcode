@@ -1,3 +1,12 @@
+// Let n = nums.length / 3
+// For first 2n elements (left side), maintain running minimum of sum of n largest numbers using max heap
+// For last 2n elements (right side), maintain running minimum of sum of n smallest numbers using min heap (in reverse)
+// For each valid split point between left n and right n:
+//   compute sumFirst - sumSecond
+//   track the minimum difference
+// Return the minimum difference
+
+
 class Solution {
     public long minimumDifference(int[] nums) {
         int n = nums.length / 3;
