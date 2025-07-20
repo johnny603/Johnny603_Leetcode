@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2102-find-the-middle-index-in-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-check-array-formation-through-concatenation](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Linked List
 |  |
 | ------- |
@@ -635,4 +639,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
