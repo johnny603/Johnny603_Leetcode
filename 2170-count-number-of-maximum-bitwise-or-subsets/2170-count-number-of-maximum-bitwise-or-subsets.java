@@ -32,7 +32,7 @@ class Solution {
     public int countMaxOrSubsets(int[] nums) {
         // Step 1: Find the maximum OR value from all elements combined
         for (int num : nums) {
-            maxOr |= num;
+            maxOr |= num; // bitwise OR
         }
 
         // Step 2: Start DFS
