@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
