@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0190-reverse-bits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Graph
 |  |
