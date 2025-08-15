@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
