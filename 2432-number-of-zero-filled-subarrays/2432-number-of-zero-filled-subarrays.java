@@ -1,0 +1,17 @@
+class Solution {
+    public long zeroFilledSubarray(int[] nums) {
+        long ans = 0;   // answer can be large, so use long
+        long count = 0; // count consecutive zeros
+
+        for (int num : nums) {
+            if (num == 0) {
+                count++;
+                ans += count;
+            } else {
+                count = 0;
+            }
+        }
+
+        return ans;
+    }
+}
