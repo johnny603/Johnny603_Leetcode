@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1656-count-good-triplets) |
 | [1760-check-array-formation-through-concatenation](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1813-maximum-erasure-value](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0224-basic-calculator) |
+| [1628-count-submatrices-with-all-ones](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0945-snakes-and-ladders](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -635,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
