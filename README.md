@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1500-count-largest-group](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
