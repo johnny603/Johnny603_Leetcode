@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0112-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0112-path-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0112-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0112-path-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Combinatorics
