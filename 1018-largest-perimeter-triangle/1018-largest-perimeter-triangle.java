@@ -1,5 +1,5 @@
-// Idea: sort array from largest to smallest
-// Then pick the first three
+// Idea: sort array from smallest to largest
+// Then pick the last three
 // If the array is empty or has a size less than three, return 0
 
 class Solution {
