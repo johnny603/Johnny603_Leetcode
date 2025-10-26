@@ -1,11 +1,14 @@
 class Bank {
+    // data fields
     private long[] account; // instance variable to store balances
 
+    // constructor
     public Bank(long[] balance) {
         // initialize account balances
         account = balance;
     }
 
+    // methods
     private boolean validAccount(int acc) {
         // check if account number is valid (1-indexed)
         return acc >= 1 && acc <= account.length;
