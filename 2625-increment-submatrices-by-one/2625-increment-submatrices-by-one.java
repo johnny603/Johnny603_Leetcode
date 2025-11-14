@@ -1,3 +1,5 @@
+// brute force
+
 class Solution {
     public int[][] rangeAddQueries(int n, int[][] queries) {
         int[][] matrix = new int[n][n];
