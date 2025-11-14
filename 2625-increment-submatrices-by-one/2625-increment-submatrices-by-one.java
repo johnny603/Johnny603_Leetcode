@@ -1,21 +1,39 @@
-// brute force
+// prefix sum optomization
 
 class Solution {
     public int[][] rangeAddQueries(int n, int[][] queries) {
-        int[][] matrix = new int[n][n];
+        int[][] diff = new int[n + 1][n + 1];
 
-        // For each query, increment the submatrix
         for (int[] q : queries) {
             int r1 = q[0], c1 = q[1];
             int r2 = q[2], c2 = q[3];
 
-            for (int i = r1; i <= r2; i++) {
-                for (int j = c1; j <= c2; j++) {
-                    matrix[i][j]++;
-                }
+            diff[r1][c1] += 1;
+            if (c2 + 1 < n) diff[r1][c2 + 1] -= 1;
+            if (r2 + 1 < n) diff[r2 + 1][c1] -= 1;
+            if (r2 + 1 < n && c2 + 1 < n) diff[r2 + 1][c2 + 1] += 1;
+        }
+
+        // prefix sum horizontally
+        for (int i = 0; i < n; i++) {
+            for (int j = 1; j < n; j++) {
+                diff[i][j] += diff[i][j - 1];
             }
         }
 
-        return matrix;
+        // prefix sum vertically
+        for (int j = 0; j < n; j++) {
+            for (int i = 1; i < n; i++) {
+                diff[i][j] += diff[i - 1][j];
+            }
+        }
+
+        // trim the matrix
+        int[][] result = new int[n][n];
+        for (int i = 0; i < n; i++)
+            for (int j = 0; j < n; j++)
+                result[i][j] = diff[i][j];
+
+        return result;
     }
 }
