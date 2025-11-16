@@ -1,6 +1,6 @@
 class Solution {
     public int numSub(String s) {
-        long result = 0;
+        long numSubStr = 0;
         long MOD = 1_000_000_007;
         int n = s.length();
         
@@ -23,13 +23,13 @@ class Solution {
             long len = r - l;
             
             // Apply formula for number of substrings in this block
-            result += len * (len + 1) / 2;
-            result %= MOD;
+            numSubStr += len * (len + 1) / 2;
+            numSubStr %= MOD;
             
             // Move l to after this block
             l = r;
         }
         
-        return (int)result;
+        return (int)numSubStr;
     }
 }
