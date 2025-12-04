@@ -1150,4 +1150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
