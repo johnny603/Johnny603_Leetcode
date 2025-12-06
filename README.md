@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2023-design-movie-rental-system) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0868-push-dominoes) |
 | [0941-sort-array-by-parity](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
