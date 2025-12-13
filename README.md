@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0945-snakes-and-ladders) |
+| [0997-find-the-town-judge](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0997-find-the-town-judge) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
