@@ -1,3 +1,12 @@
+// Everything is sorted so we make a staircase of negatives and positives
+// Ex:
+/*
++ + + + -
++ + + - -
++ + - - -
++ - - - -
+*/
+
 class Solution {
     public int countNegatives(int[][] grid) {
         int negatives = 0;
