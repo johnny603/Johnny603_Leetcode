@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0997-find-the-town-judge) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1013-fibonacci-number) |
@@ -946,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
