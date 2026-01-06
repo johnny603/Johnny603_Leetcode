@@ -989,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1115,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0112-path-sum) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1131,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1148,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0112-path-sum) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Combinatorics
 |  |
