@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0412-fizz-buzz) |
 | [0474-ones-and-zeroes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0742-to-lower-case) |
 | [0756-pyramid-transition-matrix](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0768-partition-labels) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0867-new-21-game) |
