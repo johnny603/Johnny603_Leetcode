@@ -998,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0112-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1132,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1147,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0112-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1171,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
