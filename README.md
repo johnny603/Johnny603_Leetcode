@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0120-triangle) |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -1180,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -1316,4 +1320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3454-separate-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
