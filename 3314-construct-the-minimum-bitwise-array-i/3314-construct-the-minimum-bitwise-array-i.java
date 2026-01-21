@@ -5,8 +5,8 @@ class Solution {
         int[] answer = new int[nums.size()];
 
         // Iterate through each number in the input list
-        for (int index = 0; index < nums.size(); index++) {
-            int targetValue = nums.get(index);
+        for (int i = 0; i < nums.size(); i++) {
+            int targetValue = nums.get(i);
             int smallestValid = -1; // Default if no valid value exists
 
             // Try all possible candidates less than targetValue
@@ -21,7 +21,7 @@ class Solution {
             }
 
             // Store the result for this index
-            answer[index] = smallestValid;
+            answer[i] = smallestValid;
         }
 
         return answer;
