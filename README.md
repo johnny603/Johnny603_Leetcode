@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
