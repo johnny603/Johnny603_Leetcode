@@ -1,94 +1,138 @@
 class Solution {
 
-struct SegTree{
-    int n;  
-    struct Node {int mn, mx, lazy;};
-    vector<Node>st;
-    SegTree(int _n=0) {init(_n);}
-    void init(int _n) {
-        n = _n;
-        st.assign(4*(n+5), {0,0,0});        
-    }
-    void apply(int p, int val){
-        st[p].mn += val;
-        st[p].mx += val;
-        st[p].lazy += val;
-    }
-    void push(int p){
-        if(st[p].lazy){
-            apply(p<<1, st[p].lazy);
-            apply(p<<1|1, st[p].lazy);
-            st[p].lazy = 0;
+    // Segment tree that maintains prefix balance values
+    struct SegmentTree {
+        int size;
+
+        // Each node stores:
+        // mn = minimum prefix value in range
+        // mx = maximum prefix value in range
+        // lazy = pending range update
+        struct Node {
+            int mn, mx, lazy;
+        };
+
+        vector<Node> tree;
+
+        SegmentTree(int n = 0) { init(n); }
+
+        void init(int n) {
+            size = n;
+            tree.assign(4 * (size + 5), {0, 0, 0});
         }
-    }
-    void pull(int p){
-        st[p].mn = min(st[p<<1].mn, st[p<<1|1].mn);
-        st[p].mx = max(st[p<<1].mx, st[p<<1|1].mx);
-    }
-    void range_add(int p, int l, int r, int L, int R, int val){
-        if(L>R || r<L || R<l) return;
-        if(L<=l && r<=R){ apply(p, val); return; }
-        push(p);
-        int m=(l+r)>>1;
-        range_add(p<<1, l, m, L, R, val);
-        range_add(p<<1|1, m+1, r, L, R, val);
-        pull(p);
-    }
-    void range_add(int L, int R, int val){
-        if(L>R) return;
-        range_add(1, 0, n, L, R, val);
-    }
-    int find_first_equal(int p, int l, int r, int L, int R, int target){
-        if(L>R || r<L || R<l) return -1;
-        if(st[p].mn > target || st[p].mx < target) return -1;
-        if(l==r){
-            return l;
+
+        // Apply a value to a node (range increment)
+        void apply(int node, int val) {
+            tree[node].mn += val;
+            tree[node].mx += val;
+            tree[node].lazy += val;
         }
-        push(p);
-        int m=(l+r)>>1;
-        int res = find_first_equal(p<<1, l, m, L, R, target);
-        if(res != -1) return res;
-        return find_first_equal(p<<1|1, m+1, r, L, R, target);
-    }
-    int find_first_equal(int L, int R, int target){
-        if(L>R) return -1;
-        return find_first_equal(1, 0, n, L, R, target);
-    }
-    int point_query(int p, int l, int r, int idx){
-        if(l==r) return st[p].mn;
-        push(p);
-        int m=(l+r)>>1;
-        if(idx<=m) return point_query(p<<1, l, m, idx);
-        else return point_query(p<<1|1, m+1, r, idx);
-    }
-    int point_query(int idx){ return point_query(1,0,n,idx); }    
-};
-    
+
+        // Push lazy updates to children
+        void push(int node) {
+            if (tree[node].lazy != 0) {
+                apply(node << 1, tree[node].lazy);
+                apply(node << 1 | 1, tree[node].lazy);
+                tree[node].lazy = 0;
+            }
+        }
+
+        // Recompute node from children
+        void pull(int node) {
+            tree[node].mn = min(tree[node << 1].mn, tree[node << 1 | 1].mn);
+            tree[node].mx = max(tree[node << 1].mx, tree[node << 1 | 1].mx);
+        }
+
+        // Add val to range [L, R]
+        void rangeAdd(int node, int left, int right, int L, int R, int val) {
+            if (L > R || right < L || R < left) return;
+            if (L <= left && right <= R) {
+                apply(node, val);
+                return;
+            }
+            push(node);
+            int mid = (left + right) >> 1;
+            rangeAdd(node << 1, left, mid, L, R, val);
+            rangeAdd(node << 1 | 1, mid + 1, right, L, R, val);
+            pull(node);
+        }
+
+        void rangeAdd(int L, int R, int val) {
+            if (L <= R) rangeAdd(1, 0, size, L, R, val);
+        }
+
+        // Find first index in [L, R] whose value equals target
+        int findFirstEqual(int node, int left, int right, int L, int R, int target) {
+            if (L > R || right < L || R < left) return -1;
+            if (tree[node].mn > target || tree[node].mx < target) return -1;
+            if (left == right) return left;
+
+            push(node);
+            int mid = (left + right) >> 1;
+
+            int res = findFirstEqual(node << 1, left, mid, L, R, target);
+            if (res != -1) return res;
+            return findFirstEqual(node << 1 | 1, mid + 1, right, L, R, target);
+        }
+
+        int findFirstEqual(int L, int R, int target) {
+            return (L <= R) ? findFirstEqual(1, 0, size, L, R, target) : -1;
+        }
+
+        // Query value at a single index
+        int pointQuery(int node, int left, int right, int idx) {
+            if (left == right) return tree[node].mn;
+            push(node);
+            int mid = (left + right) >> 1;
+            if (idx <= mid) return pointQuery(node << 1, left, mid, idx);
+            return pointQuery(node << 1 | 1, mid + 1, right, idx);
+        }
+
+        int pointQuery(int idx) {
+            return pointQuery(1, 0, size, idx);
+        }
+    };
+
 public:
     int longestBalanced(vector<int>& nums) {
         int n = nums.size();
-        SegTree seg(n);
-        unordered_map<int,int>lastPos;
-        int ret = 0;
+        SegmentTree seg(n);
+
+        // Last occurrence of each value
+        unordered_map<int, int> lastSeen;
+
+        int best = 0;
+
+        // r is 1-based prefix index
         for (int r = 1; r <= n; r++) {
-            int v = nums[r-1];
-            int sign = (v%2==0)?1:-1;
-            int prev = 0;
-            auto iter = lastPos.find(v);
-            if (iter!=lastPos.end()) 
-                prev = iter->second;
-            if (prev==0) {
-                seg.range_add(r, n, sign);
-            } else {
-                if (prev<=r-1)
-                    seg.range_add(prev, r-1, -sign);
+            int value = nums[r - 1];
+            int contribution = (value % 2 == 0) ? 1 : -1;
+
+            int previousIndex = 0;
+            if (lastSeen.count(value))
+                previousIndex = lastSeen[value];
+
+            // If value is new → add its contribution to all future prefixes
+            if (previousIndex == 0) {
+                seg.rangeAdd(r, n, contribution);
             }
-            lastPos[v] = r;
-            int cur = seg.point_query(r);
-            int idx = seg.find_first_equal(0,r-1,cur);
-            if (idx!=-1)
-                ret = max(ret, r-idx);
+            // If value repeats → remove its old contribution
+            else {
+                seg.rangeAdd(previousIndex, r - 1, -contribution);
+            }
+
+            lastSeen[value] = r;
+
+            // Current prefix balance
+            int currentBalance = seg.pointQuery(r);
+
+            // Find earliest prefix with same balance
+            int idx = seg.findFirstEqual(0, r - 1, currentBalance);
+
+            if (idx != -1)
+                best = max(best, r - idx);
         }
-        return ret;
+
+        return best;
     }
 };
