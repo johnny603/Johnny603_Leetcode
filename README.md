@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0037-sudoku-solver) |
 | [0095-unique-binary-search-trees-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0401-binary-watch](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
