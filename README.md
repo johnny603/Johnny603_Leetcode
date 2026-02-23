@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1500-count-largest-group](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/johnny603/Johnny603_Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1394,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Brainteaser
 |  |
@@ -1451,4 +1455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/johnny603/Johnny603_Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/johnny603/Johnny603_Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/johnny603/Johnny603_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
