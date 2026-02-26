@@ -1,3 +1,7 @@
+// Observation:
+// binaries that end in 0 are even
+// binaries that end in 1 are odd
+
 class Solution {
     public int numSteps(String s) {
         int steps = 0;
