@@ -17,7 +17,9 @@ class Solution {
 
             for (char c : new char[]{'a','b','c'}) {
 
-                if (c == prev) continue;
+                if (c == prev) {
+                    continue;
+                }
 
                 if (k > block) {
                     k -= block;
